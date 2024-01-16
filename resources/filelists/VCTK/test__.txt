@@ -1,0 +1,20 @@
+/workspace/dm_datasets/VCTK/wav_processed/p225_001.wav|Please call Stella.|p225
+/workspace/dm_datasets/VCTK/wav_processed/p225_002.wav|Ask her to bring these things with her from the store.|p225
+/workspace/dm_datasets/VCTK/wav_processed/p225_003.wav|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.|p225
+/workspace/dm_datasets/VCTK/wav_processed/p225_004.wav|We also need a small plastic snake and a big toy frog for the kids.|p225
+/workspace/dm_datasets/VCTK/wav_processed/p225_005.wav|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.|p225
+/workspace/dm_datasets/VCTK/wav_processed/p234_018.wav|Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain. |p234
+/workspace/dm_datasets/VCTK/wav_processed/p234_019.wav|Since then physicists have found that it is not reflection, but refraction by the raindrops which causes the rainbows. |p234
+/workspace/dm_datasets/VCTK/wav_processed/p234_020.wav|Many complicated ideas about the rainbow have been formed. |p234
+/workspace/dm_datasets/VCTK/wav_processed/p234_021.wav|The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases. |p234
+/workspace/dm_datasets/VCTK/wav_processed/p234_022.wav|The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows. |p234
+/workspace/dm_datasets/VCTK/wav_processed/p326_371.wav|That's always the case, isn't it?|p326
+/workspace/dm_datasets/VCTK/wav_processed/p326_372.wav|However, there are no plans for injecting rooms.|p326
+/workspace/dm_datasets/VCTK/wav_processed/p326_373.wav|Since then, they have fallen by more than two thirds.|p326
+/workspace/dm_datasets/VCTK/wav_processed/p326_375.wav|They did not threaten anyone.|p326
+/workspace/dm_datasets/VCTK/wav_processed/p326_376.wav|There is no hiding place in it, no room for passengers.|p326
+/workspace/dm_datasets/VCTK/wav_processed/p347_020.wav|Many complicated ideas about the rainbow have been formed.|p347
+/workspace/dm_datasets/VCTK/wav_processed/p347_021.wav|The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases.|p347
+/workspace/dm_datasets/VCTK/wav_processed/p347_022.wav|The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows.|p347
+/workspace/dm_datasets/VCTK/wav_processed/p347_023.wav|If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow.|p347
+/workspace/dm_datasets/VCTK/wav_processed/p347_024.wav|This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue.|p347

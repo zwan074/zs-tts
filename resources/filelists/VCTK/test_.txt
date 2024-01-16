@@ -1,0 +1,20 @@
+/workspace/dm_datasets/VCTK/wav_processed/p340_016.wav|The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky.|p340
+/workspace/dm_datasets/VCTK/wav_processed/p340_002.wav|Ask her to bring these things with her from the store.|p340
+/workspace/dm_datasets/VCTK/wav_processed/p340_234.wav|They didn't find any substance.|p340
+/workspace/dm_datasets/VCTK/wav_processed/p340_144.wav|How did he know?|p340
+/workspace/dm_datasets/VCTK/wav_processed/p340_372.wav|I'm sorry if any offence has been caused.|p340
+/workspace/dm_datasets/VCTK/wav_processed/p336_140.wav|We did not have a clue.|p336
+/workspace/dm_datasets/VCTK/wav_processed/p336_230.wav|I wish him well for the future.|p336
+/workspace/dm_datasets/VCTK/wav_processed/p336_006.wav|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.|p336
+/workspace/dm_datasets/VCTK/wav_processed/p336_012.wav|Throughout the centuries people have explained the rainbow in various ways.|p336
+/workspace/dm_datasets/VCTK/wav_processed/p336_224.wav|It's the last thing on my mind.|p336
+/workspace/dm_datasets/VCTK/wav_processed/p254_178.wav|The hotel was now for sale.|p254
+/workspace/dm_datasets/VCTK/wav_processed/p254_334.wav|The announcement was made after inquiries from a national newspaper.|p254
+/workspace/dm_datasets/VCTK/wav_processed/p254_102.wav|This reason is to do with the nature of the Scotland manager.|p254
+/workspace/dm_datasets/VCTK/wav_processed/p254_272.wav|It depends on the internal discussions in the Ministry of Defence.|p254
+/workspace/dm_datasets/VCTK/wav_processed/p254_044.wav|However, the decision has been welcomed by Scottish Enterprise officials.|p254
+/workspace/dm_datasets/VCTK/wav_processed/p334_006.wav|When the sunlight strikes raindrops in the air, they act as a prism and form a rainbow.|p334
+/workspace/dm_datasets/VCTK/wav_processed/p334_094.wav|Libya is an easy target.|p334
+/workspace/dm_datasets/VCTK/wav_processed/p334_161.wav|The investment will be in the food.|p334
+/workspace/dm_datasets/VCTK/wav_processed/p334_357.wav|The Shadow Chancellor is away on holiday.|p334
+/workspace/dm_datasets/VCTK/wav_processed/p334_027.wav|Their courage, and their honesty, should be respected.|p334

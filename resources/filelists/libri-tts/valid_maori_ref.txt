@@ -1,0 +1,5 @@
+/DUMMY/maori_ASR/datasets/Doneby2021/2013/11/28/01/2013-11-28-01-002.wav|H|121|DUMMY/test-clean/121/121726/121_121726_000000_000000.wav
+/DUMMY/maori_ASR/datasets/Doneby2021/2013/11/28/01/2013-11-28-01-003.wav|Also, a popular contrivance whereby love making may be suspended but not stopped during the picnic season.|121|DUMMY/test-clean/121/121726/121_121726_000000_000000.wav
+/DUMMY/maori_ASR/datasets/Doneby2021/2013/11/28/01/2013-11-28-01-004.wav|The beggar's plea, the politician's sceptre and the drummer's ablest assistant.|121|DUMMY/test-clean/121/121726/121_121726_000000_000000.wav	
+/DUMMY/maori_ASR/datasets/Doneby2021/2013/11/28/01/2013-11-28-01-005.wav|Painful to hear.|121|DUMMY/test-clean/121/121726/121_121726_000000_000000.wav
+/DUMMY/maori_ASR/datasets/Doneby2021/2013/11/28/01/2013-11-28-01-006.wav|Hence, full of strains.|121|DUMMY/test-clean/121/121726/121_121726_000000_000000.wav

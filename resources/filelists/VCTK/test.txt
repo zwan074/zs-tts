@@ -1,0 +1,20 @@
+/workspace/dm_datasets/VCTK/wav_processed/p340_001.wav|Please call Stella.|p340
+/workspace/dm_datasets/VCTK/wav_processed/p340_002.wav|Ask her to bring these things with her from the store.|p340
+/workspace/dm_datasets/VCTK/wav_processed/p340_003.wav|Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.|p340
+/workspace/dm_datasets/VCTK/wav_processed/p340_004.wav|We also need a small plastic snake and a big toy frog for the kids.|p340
+/workspace/dm_datasets/VCTK/wav_processed/p340_005.wav|She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.|p340
+/workspace/dm_datasets/VCTK/wav_processed/p336_009.wav|There is , according to legend, a boiling pot of gold at one end.|p336
+/workspace/dm_datasets/VCTK/wav_processed/p336_010.wav|People look, but no one ever finds it.|p336
+/workspace/dm_datasets/VCTK/wav_processed/p336_011.wav|When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow.|p336
+/workspace/dm_datasets/VCTK/wav_processed/p336_012.wav|Throughout the centuries people have explained the rainbow in various ways.|p336
+/workspace/dm_datasets/VCTK/wav_processed/p336_013.wav|Some have accepted it as a miracle without physical explanation.|p336
+/workspace/dm_datasets/VCTK/wav_processed/p254_257.wav|However, it is understood that offers of further payments are unlikely.|p254
+/workspace/dm_datasets/VCTK/wav_processed/p254_258.wav|The pensioners did not want to know.|p254
+/workspace/dm_datasets/VCTK/wav_processed/p254_259.wav|It is also very valuable.|p254
+/workspace/dm_datasets/VCTK/wav_processed/p254_260.wav|This court has made an order which has not been observed.|p254
+/workspace/dm_datasets/VCTK/wav_processed/p254_261.wav|The work between the musicians and the fire is very important.|p254
+/workspace/dm_datasets/VCTK/wav_processed/p334_121.wav|It's not one for the purist.|p334
+/workspace/dm_datasets/VCTK/wav_processed/p334_122.wav|It may now be too expensive for anyone.|p334
+/workspace/dm_datasets/VCTK/wav_processed/p334_123.wav|For one veteran, the memories remain vivid.|p334
+/workspace/dm_datasets/VCTK/wav_processed/p334_124.wav|He did his best, but it wasn't good enough.|p334
+/workspace/dm_datasets/VCTK/wav_processed/p334_125.wav|There is bound to be a formal complaint.|p334
