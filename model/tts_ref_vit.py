@@ -18,6 +18,16 @@ from model.diffusion_ref import DiffusionRef
 from model.utils import sequence_mask, generate_path, duration_loss, fix_len_compatibility
 import torch.nn.functional as F
 
+from typing import Any
+from torch.hub import load_state_dict_from_url
+
+__all__ = ['Model', 'model']
+
+model_urls = {
+    'model': 'https://github.com/lbleal1/torch-hub-test/raw/main/model_resources/iris_classifier_params.pt',
+}
+
+
 class GradTTSVitE2E(BaseModule):
     def __init__(self, n_vocab, n_spks, spk_emb_dim, n_enc_channels, filter_channels, filter_channels_dp, 
                  n_heads, n_enc_layers, enc_kernel, enc_dropout, window_size, 
@@ -238,5 +248,14 @@ class GradTTSVitE2E(BaseModule):
         diff_loss, xt = self.decoder.compute_loss(y, y_mask, mu_y_masked)
 
         return dur_loss, prior_loss, diff_loss
-    
 
+def torch_hub_model(pretrained: bool = False, progress: bool = True, **kwargs: Any) -> Model:
+    r"""
+    
+    """
+    model = GradTTSVitE2E(**kwargs)
+    if pretrained:
+        state_dict = load_state_dict_from_url(model_urls['model'],
+                                              progress=progress)
+        model.load_state_dict(state_dict)
+    return model
