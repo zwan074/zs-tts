@@ -254,7 +254,8 @@ def torch_hub_model(pretrained: bool = False, progress: bool = True, **kwargs: A
     
     """
     import params
-
+    from text.symbols import symbols
+    
     train_filelist_path = params.train_filelist_path
     valid_filelist_path = params.valid_filelist_path
     cmudict_path = params.cmudict_path
