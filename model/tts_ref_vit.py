@@ -249,7 +249,7 @@ class GradTTSVitE2E(BaseModule):
 
         return dur_loss, prior_loss, diff_loss
 
-def torch_hub_model(pretrained: bool = False, progress: bool = True, **kwargs: Any) -> Model:
+def torch_hub_model(pretrained: bool = False, progress: bool = True, **kwargs: Any) -> GradTTSVitE2E:
     r"""
     
     """
