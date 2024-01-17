@@ -253,7 +253,51 @@ def torch_hub_model(pretrained: bool = False, progress: bool = True, **kwargs: A
     r"""
     
     """
-    model = GradTTSVitE2E(**kwargs)
+    import params
+
+    train_filelist_path = params.train_filelist_path
+    valid_filelist_path = params.valid_filelist_path
+    cmudict_path = params.cmudict_path
+    add_blank = params.add_blank
+    n_spks = params.n_spks
+    spk_emb_dim = params.spk_emb_dim
+    
+    log_dir = params.log_dir
+    n_epochs = params.n_epochs
+    batch_size = params.batch_size
+    out_size = params.out_size
+    learning_rate = params.learning_rate
+    random_seed = params.seed
+    
+    nsymbols = len(symbols) + 1 if add_blank else len(symbols)
+    n_enc_channels = params.n_enc_channels
+    filter_channels = params.filter_channels
+    filter_channels_dp = params.filter_channels_dp
+    n_enc_layers = params.n_enc_layers
+    enc_kernel = params.enc_kernel
+    enc_dropout = params.enc_dropout
+    n_heads = params.n_heads
+    window_size = params.window_size
+    
+    n_feats = params.n_feats
+    n_fft = params.n_fft
+    sample_rate = params.sample_rate
+    hop_length = params.hop_length
+    win_length = params.win_length
+    f_min = params.f_min
+    f_max = params.f_max
+    
+    dec_dim = params.dec_dim
+    beta_min = params.beta_min
+    beta_max = params.beta_max
+    pe_scale = params.pe_scale
+
+    
+    model = GradTTSVitE2E(len(symbols)+1, params.n_spks, params.spk_emb_dim,
+                        params.n_enc_channels, params.filter_channels,
+                        params.filter_channels_dp, params.n_heads, params.n_enc_layers,
+                        params.enc_kernel, params.enc_dropout, params.window_size,
+                        params.n_feats, params.dec_dim, params.beta_min, params.beta_max, params.pe_scale)
     if pretrained:
         state_dict = load_state_dict_from_url(model_urls['model'],
                                               progress=progress)
